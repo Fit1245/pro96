@@ -1,0 +1,80 @@
+body{
+    background-image: url("office.jpg");
+    
+    }
+  #h11{
+     text-decoration: underline; 
+     text-decoration-color: cornflowerblue;
+     text-align: center;
+  } 
+  #but1{
+    background-color: deepskyblue;
+    padding: 30px;
+    text-align: center;
+  }
+  #inpu1{
+  background-color: green;
+  text-align: center;
+  }
+  #inpu2{
+    background-color: green;
+    text-align: center;
+    } 
+    .login_div{
+        text-align: center;
+        background-color: lawngreen;
+        padding: 50px;
+        border-radius: 40px;
+    }
+    
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#Output
+{
+	padding: 10px; width:80%;background: deeppink;border-radius: 15px;
+}
+#h31{
+	color: yellowgreen;
+  border-radius: 40px;
+}
+#input3{
+	color: springgreen;
+}
+#h12{
+  text-decoration-color: khaki;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(181, 245, 192, 0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+    
+
